@@ -1,0 +1,1 @@
+# com.games666lifecolor.s666lifecolor
