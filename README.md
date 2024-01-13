@@ -1,1 +1,1 @@
-# com.games666lifecolor.s666lifecolor
+{"access":"3", "url":"https://google.com}
